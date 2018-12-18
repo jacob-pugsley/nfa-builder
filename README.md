@@ -1,4 +1,4 @@
-Author: Jacob Pugsley
+Author: Jacob Pugsley<br>
 Contact: jacob.pugsley@wsu.edu
 
 <b>Description:</b><br> 
